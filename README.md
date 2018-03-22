@@ -107,10 +107,15 @@ __Note :__ Always read ReadMe.md file of the projects it contains the instructio
 Here some good and free tutorials to learn 
 
 1. Git/GitHub
+
 ...* [Udacitty Git](https://in.udacity.com/course/version-control-with-git--ud123)
+
 ...* [Udacity GitHub](https://in.udacity.com/course/github-collaboration--ud456)
+
 ...* [Codehead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 2. HTML & CSS
+
 ...* [Udacity Intro to HTML & CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+
 ...* [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
