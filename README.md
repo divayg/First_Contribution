@@ -13,8 +13,6 @@ That's true you can watch and learn .But what's a better way to learn than getti
 If you don't have git, [install ]( https://help.github.com/articles/set-up-git/) it from here.
 
 ## 1. Fork this repository
-First click on star button on top
-Now,
 Fork this repository by click on fork button on top right corner of this page.
 This will create a copy of this repository in your account.
 
@@ -89,3 +87,30 @@ Soon I'll be merging all your changes into the master branch of this project.
 Cheers :grin:
 
 You created your first contribution to open source
+If you like it please star this [repository](https://github.com/divayg/First_Contribution)
+
+---
+## What next ??
+
+* If you want to contribute more I am creating a starters project where you can add your details, It will show your details on card on contributors. [Visit](https://github.com/divayg/First_Contribution/project)
+
+* I will be needing translation for this in other languages to help other developers to contribute.*(Will be added soon)*
+
+* You can work on other projects just search the organisation you like and see for **"Good First Issue"**.
+-To start of FreeCodeCamp is a good place they need help with guide and Non-Profit projects [Link](https://github.com/freeCodeCamp/guides)
+
+__Note :__ Always read ReadMe.md file of the projects it contains the instructions for working up and setting up of the projects.
+
+
+## Resources 
+
+Here some good and free tutorials to learn 
+
+1. Git/GitHub
+...* [Udacitty Git](https://in.udacity.com/course/version-control-with-git--ud123)
+...* [Udacity GitHub](https://in.udacity.com/course/github-collaboration--ud456)
+...* [Codehead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+2. HTML & CSS
+...* [Udacity Intro to HTML & CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+...* [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
