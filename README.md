@@ -2,7 +2,7 @@
 ---
 A project to help new developers to get started with GitHub with first Pull Request
 
-It's difficult when you do something for the first time.Like riding a bicycle,learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by *_Thomas Eddison_* *"I have not failed. I've just found 10,000 ways that won't work."*.
+It's difficult when you do something for the first time.Like riding a bicycle,learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by *__Thomas Eddison__* *"I have not failed. I've just found 10,000 ways that won't work."*.
 
 But working in collabraive projects can be hasle and we don't want to make mistakes to show that we are good developers. As open source is all about collaboration and working together.That is why this project was created to help new developers to make their first contribution and start their journey as a developer and contributing to the open source.
 
@@ -21,7 +21,7 @@ This will create a copy of this repository in your account.
 ## 2.Clone the repository
 
 * Now you are at your forked repository at your profile.
-* At the right side corner find  _clone or download_ button
+* At the right side corner find  __clone or download__ button
 * Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
 * Now go to location on your computer where you want to store the local copy of this repository,where you will work on it.
 * After this, right click and select git bash here
@@ -67,7 +67,7 @@ Now commit those changes using the `git commit` command:
 For Example: 
 `git commit -m "Add John Doe to contributors list"`
 
-_Caution:_ Don't forget to add `-m` it specifies message to commit.If you forget it will take you to vim terminal which difficult to operate.
+__Caution:__ Don't forget to add `-m` it specifies message to commit.If you forget it will take you to vim terminal which is difficult to operate.
 
 ## 5.Push changes to GitHub
 
@@ -79,7 +79,6 @@ replacing `<add-your-name>` with the name of the branch you created earlier.
 ## 6.Submit your changes for review
 
 Now go to your repository on GitHub, you'll see a  `New pull request` button.  Click on that button.
-
 It will compare your branch with the original repository. Check if the comparing branch is your created branch
 
 Now submit the pull request.
@@ -89,4 +88,4 @@ Soon I'll be merging all your changes into the master branch of this project.
 ---
 Cheers :grin:
 
-you created your first contribution to open source
+You created your first contribution to open source
