@@ -1,19 +1,19 @@
-# First_Contribution
+# First_Contribution :beginner:
 ---
 A project to help new developers to get started with GitHub with first Pull Request
 
-It's difficult when you do something for the first time.Like riding a bicycle,learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by *__Thomas Eddison__* *"I have not failed. I've just found 10,000 ways that won't work."*.
+It's difficult when you do something for the first time.Like riding a bicycle,learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by :bulb: *__Thomas Eddison__* *"I have not failed. I've just found 10,000 ways that won't work."*.
 
 But working in collabraive projects can be hasle and we don't want to make mistakes to show that we are good developers. As open source is all about collaboration and working together.That is why this project was created to help new developers to make their first contribution and start their journey as a developer and contributing to the open source.
 
 ### I can watch online tutorials and learn why this ?
 
-That's true you can watch and learn .But what's a better way to learn than getting hands on experience & experiment and start contributing straight away.This projects aims to provide beginners a simplified way to start contributing to open source.So If you are looking to make your first contribution to open source.This is the right place . Follow the following steps to  get you started.
+That's true you can watch and learn .But what's a better way to learn than getting hands on experience & experiment by start contributing straight away.This projects aims to provide beginners a simplified way to start contributing to open source.So If you are looking to make your first contribution to open source.This is the right place . Follow the following steps to  get you started.
 
 If you don't have git, [install ]( https://help.github.com/articles/set-up-git/) it from here.
 
 ## 1. Fork this repository
-Fork this repository by click on fork button on top right corner of this page.
+Fork this repository by click on __fork__ button on top right corner of this page.
 This will create a copy of this repository in your account.
 
 ## 2.Clone the repository
@@ -86,8 +86,9 @@ Soon I'll be merging all your changes into the master branch of this project.
 ---
 Cheers :grin:
 
-You created your first contribution to open source
-If you like it please star this [repository](https://github.com/divayg/First_Contribution)
+You created your first contribution to open source :clap:
+
+If you like this please *__star__* this [repository](https://github.com/divayg/First_Contribution)
 
 ---
 ## What next ??
@@ -108,14 +109,14 @@ Here some good and free tutorials to learn
 
 1. Git/GitHub
 
-...* [Udacitty Git](https://in.udacity.com/course/version-control-with-git--ud123)
+    * [Udacitty Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
-...* [Udacity GitHub](https://in.udacity.com/course/github-collaboration--ud456)
+    * [Udacity GitHub](https://in.udacity.com/course/github-collaboration--ud456)
 
-...* [Codehead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+    * [Codehead.io](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 2. HTML & CSS
 
-...* [Udacity Intro to HTML & CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
+    * [Udacity Intro to HTML & CSS](https://in.udacity.com/course/intro-to-html-and-css--ud304)
 
-...* [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
+    * [Responsive Image](https://in.udacity.com/course/responsive-images--ud882)
