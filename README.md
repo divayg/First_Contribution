@@ -2,28 +2,31 @@
 ---
 A project to help new developers to get started with GitHub with first Pull Request
 
-It's difficult when you do something for the first time.Like riding a bicycle,learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by :bulb: *__Thomas Eddison__* *"I have not failed. I've just found 10,000 ways that won't work."*.
+It's difficult when you do something for the first time.Like riding a bicycle, learning to cook or working on a new project. We make mistakes and mistakes are ok as they help us learn as said by :bulb: *__Thomas Eddison__* *"I have not failed. I've just found 10,000 ways that won't work."*.
 
-But working in collabraive projects can be hasle and we don't want to make mistakes to show that we are good developers. As open source is all about collaboration and working together.That is why this project was created to help new developers to make their first contribution and start their journey as a developer and contributing to the open source.
+But working on collaborative projects can be a hassle and we don't want to make mistakes to show that we are good developers. As open source is all about collaboration and working together.That is why this project was created to help new developers to make their first contribution and start their journey as a developer and contributing to the open source.
 
 ### I can watch online tutorials and learn why this ?
 
-That's true you can watch and learn .But what's a better way to learn than getting hands on experience & experiment by start contributing straight away.This projects aims to provide beginners a simplified way to start contributing to open source.So If you are looking to make your first contribution to open source.This is the right place . Follow the following steps to  get you started.
+That's true you can watch and learn. But what's a better way to learn than getting hands-on experience & experiment by start contributing straight away?This project aims to provide beginners a simplified way to start contributing to open source.So If you are looking to make your first contribution to open source.This is the right place. Follow the following steps to get you started.
 
 If you don't have git, [install ]( https://help.github.com/articles/set-up-git/) it from here.
 
 ## 1. Fork this repository
-Fork this repository by click on __fork__ button on top right corner of this page.
+<img src="assets/fork.gif" align="right" width="200">
+
+Fork this repository by click on __fork__ button on the top right corner of this page.
 This will create a copy of this repository in your account.
 
 ## 2.Clone the repository
+<img src="assets/clone.gif" align="right" width="200">
 
 * Now you are at your forked repository at your profile.
 * At the right side corner find  __clone or download__ button
 * Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
 * Now go to location on your computer where you want to store the local copy of this repository,where you will work on it.
 * After this, right click and select git bash here
-* A terminal will open ,see that the path is same path where you want to clone.
+* A terminal will open, see that the path is the same path where you want to clone.
 * Now run the following command:
 --
 `git clone url-you-copied`
@@ -46,7 +49,7 @@ For example:
 
 ## 4.Make necessary changes and commit
 
-Now open `Contributors.md` file in a text editor. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown which is used to write in github MD files
+Now open `Contributors.md` file in a text editor. Refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) which gives information on how to use Markdown which is used to write in GitHub MD files
 
 In this case, add the following line at the end of `Contributors.md:`
 
@@ -87,7 +90,7 @@ Soon I'll be merging all your changes into the master branch of this project.
 Cheers :grin:
 
 You created your first contribution to open source :clap:
-
+****
 If you like this please *__star__* this [repository](https://github.com/divayg/First_Contribution)
 
 ---
@@ -109,7 +112,7 @@ Here some good and free tutorials to learn
 
 1. Git/GitHub
 
-    * [Udacitty Git](https://in.udacity.com/course/version-control-with-git--ud123)
+    * [Udacity Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
     * [Udacity GitHub](https://in.udacity.com/course/github-collaboration--ud456)
 
