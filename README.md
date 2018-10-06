@@ -1,4 +1,4 @@
-# First_Contribution :beginner:
+# First_Contribution :beginner: :HackertoberFest
 ---
 A project to help new developers to get started with GitHub with first Pull Request
 
