@@ -8,4 +8,5 @@
 [Anil](https://github.com/AnilRaj27)
 
 [phanindra koka](https://github.com/phanindrakoka09)
-*[Zornitsa Asanska](https://github.com/ZornitsaAsanska)
+
+[Zornitsa Asanska](https://github.com/ZornitsaAsanska)
