@@ -12,3 +12,5 @@
 [Sambhav Jain](https://github.com/sambhavjain304)
 
 [Christian Aracena](https://github.com/cdaracena)
+
+[Zornitsa Asanska](https://github.com/ZornitsaAsanska)
