@@ -9,4 +9,10 @@
 
 [phanindra koka](https://github.com/phanindrakoka09)
 
+[Sambhav Jain](https://github.com/sambhavjain304)
+
+[Christian Aracena](https://github.com/cdaracena)
+
+[Zornitsa Asanska](https://github.com/ZornitsaAsanska)
+
 [jwon114](https://github.com/jwon114)
