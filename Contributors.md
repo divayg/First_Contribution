@@ -20,3 +20,6 @@
 [Manav Mehra](https://github.com/manavmehra96)
 
 [Anurag Mondal](https://github.com/knightvertrag)
+
+[Cristian Jocol](https://github.com/CrisCrawford)
+
