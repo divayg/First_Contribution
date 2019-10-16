@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(252, 245, 245);
+}
+
+/* Navbar CSS */
+nav{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 5px 0;
+ background: rgb(27, 158, 49);
+ color: white;
+ font-size: 25px;
+}
+
+/* Card Section */
+.section-card{
+    padding : 25px 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 5px;
+    width: 350px;
+    padding: 25px;
+    text-align: center;
+    background: white;
+    box-shadow: 1px 1px 5px rgb(218, 218, 218);
+}
+
+.card h2{
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+}
+.card h4{
+    margin: 10px;
+    padding: 0;
+    opacity: 0.8;
+    font-weight: normal;
+}
+.card a{
+    margin-top: 25px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: rgb(27, 158, 49);
+    font-size: 12px;
+    opacity: 0.8;
+}
