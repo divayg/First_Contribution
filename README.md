@@ -96,7 +96,7 @@ If you like this please *__star__* this [repository](https://github.com/divayg/F
 ---
 ## What next ??
 
-* If you want to contribute more I am creating a starters project where you can add your details, It will show your details on card on contributors. [Visit](https://github.com/divayg/First_Contribution/tree/master/project)
+* If you want to contribute more I am creating a starters project to create a awareness website. [Visit](https://github.com/divayg/First_Contribution/tree/master/project)
 
 * I will be needing translation for this in other languages to help other developers to contribute.*(Will be added soon)*
 
