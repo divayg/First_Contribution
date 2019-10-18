@@ -20,3 +20,5 @@
 [Manav Mehra](https://github.com/manavmehra96)
 
 [Anurag Mondal](https://github.com/knightvertrag)
+
+[Gurpreet Singh](https://github.com/GurpreetSinghPruthi)
