@@ -20,3 +20,13 @@
 [Manav Mehra](https://github.com/manavmehra96)
 
 [Anurag Mondal](https://github.com/knightvertrag)
+
+[Jayesh Mann](https://github.com/jayeshmann)
+
+[Cristian Jocol](https://github.com/CrisCrawford)
+
+[Jared Clayborn](https://github.com/JaredClayborn)
+
+[Radadiya Mohit](https://github.com/RaDaDiYaMoHiT)
+
+[Gurpreet Singh](https://github.com/GurpreetSinghPruthi)

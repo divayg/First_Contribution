@@ -13,10 +13,14 @@ nav{
  background: rgb(27, 158, 49);
  color: white;
  font-size: 25px;
-}   
+ position: fixed;
+ width: 100%;
+}
 
 /* Card Section */
 .section-card{
+    position: relative;
+    top: 80px;
     padding : 25px 15px;
     display: flex;
     justify-content: space-around;
