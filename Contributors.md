@@ -28,3 +28,5 @@
 [Jared Clayborn](https://github.com/JaredClayborn)
 
 [Radadiya Mohit](https://github.com/RaDaDiYaMoHiT)
+
+[Gurpreet Singh](https://github.com/GurpreetSinghPruthi)
