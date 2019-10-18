@@ -13,7 +13,7 @@ nav{
  background: rgb(27, 158, 49);
  color: white;
  font-size: 25px;
-}
+}   
 
 /* Card Section */
 .section-card{
@@ -52,3 +52,31 @@ nav{
     font-size: 12px;
     opacity: 0.8;
 }
+
+/* FOR NAVBAR */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a.active {
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
