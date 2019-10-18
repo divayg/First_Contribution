@@ -22,3 +22,5 @@
 [Anurag Mondal](https://github.com/knightvertrag)
 
 [Jayesh Mann](https://github.com/jayeshmann)
+
+[Cristian Jocol](https://github.com/CrisCrawford)
