@@ -28,19 +28,12 @@ nav a:hover {
 }
 
 /* Card Section */
-.section-card {
-	position: relative;
-	top: 80px;
-	padding: 25px 15px;
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-	flex-wrap: wrap;
-}
 
 .cust-card {
-	margin: 5px;
-	width: 350px;
+	padding: 20px;
+	margin: 0 auto 3em auto;
+	width: 100%;
+	max-width: 400px;
 	padding: 25px;
 	text-align: center;
 	background: white;
