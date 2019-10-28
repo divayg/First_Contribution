@@ -33,4 +33,6 @@
 
 [swt02026](https://github.com/swt02026)
 
+[Jon Karavan](https://github.com/jonkaravan)
+
 [Niharika](https://github.com/niharikakrishnan)
