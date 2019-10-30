@@ -38,3 +38,5 @@
 [Niharika](https://github.com/niharikakrishnan)
 
 [Michele](https://github.com/mclmza)
+
+[Miguel Martin](https://github.com/miguelmml)
