@@ -40,3 +40,5 @@
 [Michele](https://github.com/mclmza)
 
 [Miguel Martin](https://github.com/miguelmml)
+
+[Omicron666](https://github.com/Omicron666)
