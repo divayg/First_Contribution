@@ -42,3 +42,5 @@
 [Miguel Martin](https://github.com/miguelmml)
 
 [Omicron666](https://github.com/Omicron666)
+
+[Aimee Temple](https://github.com/AimeeT8)
